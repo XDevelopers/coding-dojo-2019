@@ -112,7 +112,7 @@ export default {
   methods: {
     loadBreweries(){
       axios
-      .get('https://raw.githubusercontent.com/danielschmitz/crud-vuejs/master/cervejarias.json')
+      .get('https://raw.githubusercontent.com/XDevelopers/coding-dojo-2019/master/cervejarias.json')
       .then(response => 
       {
         this.breweries = response.data.breweries;
