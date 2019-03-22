@@ -52,3 +52,10 @@ Outras implementações e melhorias podem ser feitas aqui neste repositório mes
 
 ```
 * (O Objetivo não é terminar, mas sim o entendimento dos participantes da Facilidade do Vue.js, e de como pode ser fácil e rápido consumir serviços Web dentro de um App já preparado para PWA); 
+
+
+## Demo
+
+[Live Demo](https://xdevelopers.github.io/coding-dojo-2019/)
+
+
